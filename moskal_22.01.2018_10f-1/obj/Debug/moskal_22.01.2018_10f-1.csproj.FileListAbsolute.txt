@@ -1,0 +1,9 @@
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\bin\Debug\moskal_22.01.2018_10f-1.exe.config
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\bin\Debug\moskal_22.01.2018_10f-1.exe
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\bin\Debug\moskal_22.01.2018_10f-1.pdb
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\obj\Debug\moskal_22.01.2018_10f-1.csprojResolveAssemblyReference.cache
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\obj\Debug\moskal_22._01._2018_10f_1.Form1.resources
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\obj\Debug\moskal_22._01._2018_10f_1.Properties.Resources.resources
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\obj\Debug\moskal_22.01.2018_10f-1.csproj.GenerateResource.Cache
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\obj\Debug\moskal_22.01.2018_10f-1.exe
+D:\Programmation\moskal_22.01.2018_10f-1\moskal_22.01.2018_10f-1\obj\Debug\moskal_22.01.2018_10f-1.pdb
